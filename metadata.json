@@ -17,14 +17,8 @@
     }
   ],
   "requirements": [
-    {
-      "name": "pe",
-      "version_requirement": "3.3.x"
-    },
-    {
-      "name": "puppet",
-      "version_requirement": "3.0"
-    }
+    { "name": "pe",     "version_requirement": ">= 3.3.0 < 4.0.0" },
+    { "name": "puppet", "version_requirement": ">= 3.0.0 < 4.0.0" }
   ],
   "dependencies": [
     {"name":"puppetlabs/stdlib","version_requirement":">= 4.0.0"},
