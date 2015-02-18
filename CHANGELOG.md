@@ -1,3 +1,11 @@
+## 2015-02-18 - Release 0.9.3
+
+Fix module metadata.
+
+#### Bugfixes
+
+- Fixed module metadata to avoid problems on Open Source Puppet.
+
 ## 2014-12-08 - Release 0.9.2
 
 Fix file/directory permissions.
